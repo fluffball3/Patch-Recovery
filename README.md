@@ -1,3 +1,7 @@
+# Similar script
+You can also refer this [script](https://github.com/engineer4t/fastboot-patcher)
+
+
 # Patch-Recovery
 This CI service patches recovery images of Samsung to enable Fastbootd. Based on Phh's [script](https://github.com/phhusson/samsung-galaxy-a51-gsi-boot)
 
